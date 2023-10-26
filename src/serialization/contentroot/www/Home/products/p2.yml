@@ -1,0 +1,37 @@
+﻿---
+ID: "fa4c9725-a4d9-4e09-991d-20ccd6a735fe"
+Parent: "999ee86e-acfe-4f62-91dc-1657311a1031"
+Template: "f2bf8e67-f1b8-47bf-9859-51384404602e"
+Path: /sitecore/content/JSS Tenant/www/Home/products/p2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231017T115848Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: p1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7603d2f6-5f99-4c52-a598-cdb0bdd2b0e0"
+      Hint: Title
+      Value: p1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58d18662-03e8-4502-901c-2b51fb207bcb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T115848Z

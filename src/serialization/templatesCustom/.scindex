@@ -1,0 +1,316 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo\Image\Image.yml
+ID: "8dace9e1-958d-44c2-b0d4-076438d5425b"
+Parent: "6d3a6dc4-dc45-41e4-8376-08847f9675a4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Logo/logo/Image/Image
+Signature: md7r18UZ6xg1r2qHpDexbzf1g/MZw0LSmWbvvbJWIX0=
+Modified: 638338275063154459
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation.yml
+ID: "79aa8861-b4e1-4fd6-904e-1b3159e75074"
+Parent: "c98b786d-8c08-4977-b0a2-61c320a0bad0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/Navigation
+Signature: WEFcw7HMd73uWWvlV907pphebpRu2zr5xZGJ425ll5k=
+Modified: 638327966614534020
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles.yml
+ID: "0cad4592-99fb-450f-8aee-9a470253cc23"
+Parent: "c98b786d-8c08-4977-b0a2-61c320a0bad0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/Tiles
+Signature: K/FDWJq97/Z795nx9dISQC+ABVPSNWTrSt727Kd5qN4=
+Modified: 638327205448017089
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo.yml
+ID: "d9a3385c-f9be-4249-af77-73232c6e0755"
+Parent: "54998b95-ef9a-4ae7-b4ed-b349ec43dec4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Logo/logo
+Signature: 55z+ab/zxVd77UdbIeXzUDzXe7mECckPLe9Us+JRnLQ=
+Modified: 638338275063032043
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\Rendering Parameters.yml
+ID: "f58f1ab7-c08f-49bc-8081-4a600c9adde9"
+Parent: "79aa8861-b4e1-4fd6-904e-1b3159e75074"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/Navigation/Rendering Parameters
+Signature: aTzeJanGp/0nz/djJUu6WubeyQufqcOJkZfR7DG4lqA=
+Modified: 638327966614700608
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www.yml
+ID: "c98b786d-8c08-4977-b0a2-61c320a0bad0"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www
+Signature: br/t42aUp0c0kH1VBp0UU4SBntixpDTrWWSHQX1IGn4=
+Modified: 638327205447957862
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\New Tile.yml
+ID: "ebb0cffa-9dd4-4704-a0e4-5d13aa26aedd"
+Parent: "c98b786d-8c08-4977-b0a2-61c320a0bad0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/New Tile
+Signature: rj2qbtX/aR7YDRDUxn9B0lGDU/LRjRsGkkR5ssSknr8=
+Modified: 638327205447997077
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo Folder.yml
+ID: "e8b5261b-a0c0-41a0-907b-f11cd24ef99c"
+Parent: "54998b95-ef9a-4ae7-b4ed-b349ec43dec4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Logo/logo Folder
+Signature: lFQSWGSiYRHb0/DP6tsoh8PdJCCld6gP240u4LQPODo=
+Modified: 638338275063043609
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo Folder\__Standard Values.yml
+ID: "d3531777-c837-45e3-84da-d922581b05e3"
+Parent: "e8b5261b-a0c0-41a0-907b-f11cd24ef99c"
+Template: "e8b5261b-a0c0-41a0-907b-f11cd24ef99c"
+Path: /sitecore/templates/Feature/www/Logo/logo Folder/__Standard Values
+Signature: +K3PZCde3pNQxYt0XILZLmUK9bIbXmy7dyP+fpvFcYA=
+Modified: 638338275063215007
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation Folder.yml
+ID: "eba893db-283c-4906-bb41-4b3381fe0527"
+Parent: "79aa8861-b4e1-4fd6-904e-1b3159e75074"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation Folder
+Signature: 7ejYf39+EvvGv0rzPPmErNkMcRsirW2GWI2Zp+9ogzo=
+Modified: 638327966614759538
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo.yml
+ID: "54998b95-ef9a-4ae7-b4ed-b349ec43dec4"
+Parent: "c98b786d-8c08-4977-b0a2-61c320a0bad0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/Logo
+Signature: ZxOMNn3aaVL3w68qRJ7PBzW9GfrCUE3gOA8fJWu5+Sk=
+Modified: 638338275062994329
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\Rendering Parameters.yml
+ID: "fc4cf7cc-f377-422e-8507-83d09adf9843"
+Parent: "54998b95-ef9a-4ae7-b4ed-b349ec43dec4"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/www/Logo/Rendering Parameters
+Signature: FrYD6dMYtUFrCYw1bbTWnEUxRBHFB7Bw4tkm0jVuL/Q=
+Modified: 638338275063066339
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\Rendering Parameters\logo.yml
+ID: "518a1af3-02cf-4d0a-9316-1c595ceb7bc8"
+Parent: "fc4cf7cc-f377-422e-8507-83d09adf9843"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Logo/Rendering Parameters/logo
+Signature: +GQL8YJMfO6h1t6N8E5c1DThUNI0+VmxEnX07+3fnak=
+Modified: 638338275063124481
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\Rendering Parameters\logo\__Standard Values.yml
+ID: "1899dcf4-ef69-4ef7-9471-85e639bd4482"
+Parent: "518a1af3-02cf-4d0a-9316-1c595ceb7bc8"
+Template: "518a1af3-02cf-4d0a-9316-1c595ceb7bc8"
+Path: /sitecore/templates/Feature/www/Logo/Rendering Parameters/logo/__Standard Values
+Signature: 0hNvuPEEqETagWZvJCnbbrl90XJ969dmuoaLBGAUhuY=
+Modified: 638338275063245025
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation.yml
+ID: "873d08bd-392f-464f-9eba-1e3ed750eb3b"
+Parent: "79aa8861-b4e1-4fd6-904e-1b3159e75074"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation
+Signature: incvptCIXZNceO9W2gD3MFHWDh95qUamz3KzCepsI60=
+Modified: 638327966614649604
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\Rendering Parameters\WWWNavigation.yml
+ID: "149fce51-575d-4e0b-8aab-2a701374c6c0"
+Parent: "f58f1ab7-c08f-49bc-8081-4a600c9adde9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Navigation/Rendering Parameters/WWWNavigation
+Signature: qpPqryxx5L9yid5iuXExy0s7cXMpPW3hG5MQEOw7VNg=
+Modified: 638327966614909601
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo\Image\ImageCaption.yml
+ID: "bd26c8b4-93dd-4f9d-9073-c7d364a462c9"
+Parent: "6d3a6dc4-dc45-41e4-8376-08847f9675a4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Logo/logo/Image/ImageCaption
+Signature: Ukgs+BSQ8AMU23EMeMADntNjGCgkeElJ38sOrYlcvIQ=
+Modified: 638338275063197345
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\Rendering Parameters\WWWNavigation\__Standard Values.yml
+ID: "18a686d0-df33-4347-a05a-e7427881aa74"
+Parent: "149fce51-575d-4e0b-8aab-2a701374c6c0"
+Template: "149fce51-575d-4e0b-8aab-2a701374c6c0"
+Path: /sitecore/templates/Feature/www/Navigation/Rendering Parameters/WWWNavigation/__Standard Values
+Signature: AysNvjaA4fUKfid6rL3/psd2F9lYwcusHTxilG1Fc+c=
+Modified: 638327966615209580
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Rendering Parameter.yml
+ID: "3b6709e6-fabc-4d11-b9bf-20cce7700544"
+Parent: "0cad4592-99fb-450f-8aee-9a470253cc23"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Tiles/Rendering Parameter
+Signature: l8AFRYnWd65gQpoWnLSDlHEmwJNsE0fEp8H7fhhiLCI=
+Modified: 638327205448047063
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation\Data.yml
+ID: "dabcb55c-9312-4e3b-b1b5-0b96a204705c"
+Parent: "873d08bd-392f-464f-9eba-1e3ed750eb3b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation/Data
+Signature: jWa1AL+bClqdCLUjIGbwwaUijiXx94RUocdOVorEL5w=
+Modified: 638327966614830709
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation\Data\HeaderLinks.yml
+ID: "808ed3c8-5469-4073-900d-ce104fbf4672"
+Parent: "dabcb55c-9312-4e3b-b1b5-0b96a204705c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation/Data/HeaderLinks
+Signature: xyO2f+VYbsd682w1SzYPuS9G0us48aH+tFjkp3Grj7U=
+Modified: 638327966615029557
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile Folder.yml
+ID: "69f2ef60-4e3e-44fb-ad3c-19ce7195cce9"
+Parent: "0cad4592-99fb-450f-8aee-9a470253cc23"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Tiles/Tile Folder
+Signature: 3y3qUv9UvEHT2nHa2GZCj138ezUx/R/NG8FHM/wyOD8=
+Modified: 638327205448097065
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation Folder\__Standard Values.yml
+ID: "daed92df-0a5d-48ad-8d9b-e0e36bc47308"
+Parent: "eba893db-283c-4906-bb41-4b3381fe0527"
+Template: "eba893db-283c-4906-bb41-4b3381fe0527"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation Folder/__Standard Values
+Signature: LAZUjGUYy9YcFrVa0sJd3jXs1KxIfUK33JYm3JOacCU=
+Modified: 638327966615147667
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation\Data\HeaderLogo.yml
+ID: "b95a6c5b-cc24-4143-b0d3-23e8cab1e88a"
+Parent: "dabcb55c-9312-4e3b-b1b5-0b96a204705c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation/Data/HeaderLogo
+Signature: XqOx+s/cA3R4B23915FEpDGVTzvPBwTxbTffRe3/7zk=
+Modified: 638327966615073670
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile.yml
+ID: "90a2e519-6168-4394-9e91-4e570cf71aa4"
+Parent: "0cad4592-99fb-450f-8aee-9a470253cc23"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/www/Tiles/Tile
+Signature: cvUqECM3ER3wOlnz+y6aV0tYo8RdMaQsDzPJQEk+40I=
+Modified: 638327205448067059
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Rendering Parameter\__Standard Values.yml
+ID: "88611f8b-8135-4ed2-8394-188615a0bb24"
+Parent: "3b6709e6-fabc-4d11-b9bf-20cce7700544"
+Template: "3b6709e6-fabc-4d11-b9bf-20cce7700544"
+Path: /sitecore/templates/Feature/www/Tiles/Rendering Parameter/__Standard Values
+Signature: vK+8mo7ZSY1YG3lYXnBUZusoYOwP/VV2pcq8q2RFdHc=
+Modified: 638327205448287052
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Navigation\WWWNavigation\Data\HeaderText.yml
+ID: "037468f4-af0c-4b02-9350-4a1aebfd9c80"
+Parent: "dabcb55c-9312-4e3b-b1b5-0b96a204705c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Navigation/WWWNavigation/Data/HeaderText
+Signature: BB3oCg7AxooAcVcGB9xDLNrWX69t6jO4/6z8z8DOQVE=
+Modified: 638327966614983198
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo\Image.yml
+ID: "6d3a6dc4-dc45-41e4-8376-08847f9675a4"
+Parent: "d9a3385c-f9be-4249-af77-73232c6e0755"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/www/Logo/logo/Image
+Signature: sCuCV6gQnIS4sgp82vgrl0XAueuqmuIaeABWyKQgyYM=
+Modified: 638338275063093897
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile\data.yml
+ID: "9cec15f1-4c54-46f6-9a53-3d5d42633946"
+Parent: "90a2e519-6168-4394-9e91-4e570cf71aa4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/www/Tiles/Tile/data
+Signature: 4OziZCAGM12330txcfIkbInKFfCA1+1YBBthtP0DLNc=
+Modified: 638327205448127058
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile\data\Attractions.yml
+ID: "c3123540-1c81-4064-a409-dc465d831aec"
+Parent: "9cec15f1-4c54-46f6-9a53-3d5d42633946"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Tiles/Tile/data/Attractions
+Signature: IU7JgxJZ9kQk3hXixsFTwisSYuojHMVq1IEtq0iX1Cw=
+Modified: 638327205448187061
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Logo\logo\Image\TargetUrl.yml
+ID: "c03f67b5-75ed-4d58-9281-bfa6ee6345f9"
+Parent: "6d3a6dc4-dc45-41e4-8376-08847f9675a4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Logo/logo/Image/TargetUrl
+Signature: x31MEY7uQgg5Jp9PLXbxuj9MTjfXjWEsP3pYo3np008=
+Modified: 638338275063174091
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile\__Standard Values.yml
+ID: "f3e4bec4-aced-49f6-9dff-53c8cff9e5e4"
+Parent: "90a2e519-6168-4394-9e91-4e570cf71aa4"
+Template: "90a2e519-6168-4394-9e91-4e570cf71aa4"
+Path: /sitecore/templates/Feature/www/Tiles/Tile/__Standard Values
+Signature: waVkGU7oQdcrsi3NTGzUfDon6DvNwELlz1xw1p2XWC4=
+Modified: 638327205448307038
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile\data\Destinations.yml
+ID: "d436064f-dcff-436c-9fe7-55355b8938aa"
+Parent: "9cec15f1-4c54-46f6-9a53-3d5d42633946"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Tiles/Tile/data/Destinations
+Signature: MtSyizc0HEpoZ85IM/tT4nCYerZTEohdSQ6+xaWv8JM=
+Modified: 638327205448167067
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile Folder\__Standard Values.yml
+ID: "b1cb9a63-6f0c-4c2e-892b-941adce976e0"
+Parent: "69f2ef60-4e3e-44fb-ad3c-19ce7195cce9"
+Template: "69f2ef60-4e3e-44fb-ad3c-19ce7195cce9"
+Path: /sitecore/templates/Feature/www/Tiles/Tile Folder/__Standard Values
+Signature: hhnf+1ObZhu13xvwRaSA4qD6NETimCbFccd6gsAKf5I=
+Modified: 638327205448337034
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\templatesCustom\www\Tiles\Tile\data\Type.yml
+ID: "0537801f-f977-4b6b-a017-753f522efd4e"
+Parent: "9cec15f1-4c54-46f6-9a53-3d5d42633946"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/www/Tiles/Tile/data/Type
+Signature: nOBRssWYqXLDiowYmZgkLj5mlOLmweeXE8MRKVhPtLQ=
+Modified: 638327205448248883

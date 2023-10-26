@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\Renderings\www.yml
+ID: "f03a2910-fec6-4c36-a9db-11fc82129fc4"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/www
+Signature: sSj8CQ43aFCk33Hra6K2MwvDr0pM1Sr4HLwM0j0NL0U=
+Modified: 638327205451465529
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\Renderings\www\Tile.yml
+ID: "cc4805bd-b6af-4d50-a595-2421b926b1f2"
+Parent: "f03a2910-fec6-4c36-a9db-11fc82129fc4"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/www/Tile
+Signature: KKAwRVbQ9DXbMP8ZXHizujsTg7yoKJzUEvWJn4DXaLA=
+Modified: 638327205451495536

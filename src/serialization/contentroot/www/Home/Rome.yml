@@ -1,0 +1,44 @@
+﻿---
+ID: "ecf4d9ba-f426-4abe-8b05-dde0e5e45c89"
+Parent: "289707fc-99ab-4ace-b1bc-04780993ddf5"
+Template: "e583b9be-69bb-4470-bc0b-7ee5ce963b21"
+Path: /sitecore/content/JSS Tenant/www/Home/Rome
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{29A620C1-E416-40E3-8D36-87BA1C20DAFB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T094630Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rome
+    - ID: "7603d2f6-5f99-4c52-a598-cdb0bdd2b0e0"
+      Hint: Title
+      Value: Rome
+    - ID: "79b1f951-8b1f-444f-b001-8e29d491a7af"
+      Hint: ShortDescription
+      Value: |
+        Short Description Rome<br class="t-last-br" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fa66630-abee-441a-b040-8631e2330b28"
+    - ID: "a1b5b9ec-bd4e-4712-a12f-39b417442563"
+      Hint: Heading
+      Value: Rome
+    - ID: "aa7c3421-ec7f-447d-bb54-b20eff992e1b"
+      Hint: TileImage
+      Value: |
+        <image mediaid="{FA267376-4AD8-478F-88F7-0E564CB04590}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231016T114807Z

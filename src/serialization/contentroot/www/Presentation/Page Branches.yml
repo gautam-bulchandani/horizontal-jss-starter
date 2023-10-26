@@ -1,0 +1,45 @@
+﻿---
+ID: "a0c937cc-c813-4949-9d94-1d12c22f9b18"
+Parent: "6ad81179-93c4-4ff3-8b0a-72f31b9dbfb0"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/JSS Tenant/www/Presentation/Page Branches
+SharedFields:
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{CD6E5C7C-A8EE-484A-85AD-F9F27FFB3EB6}">
+        <conditions>
+          <condition
+            id="{944E1C68-CAF1-468E-87DC-CE85D168D961}"
+            uid="0E6DDF478859427CAEBA911C4958E57F"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="E3D7DC56B3E44DE1B6583C20C0E2ED13"
+            PageBranchId="{4FF69C66-A9C0-4E88-ACA1-B22E1234920F}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230420T114411Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd439df4-8ef7-4a5c-aa1d-30af711a3ec6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230501T111918Z

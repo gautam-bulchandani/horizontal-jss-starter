@@ -1,0 +1,38 @@
+﻿---
+ID: "c61a723e-4565-4bc7-b1da-21e9c23f2d23"
+Parent: "289707fc-99ab-4ace-b1bc-04780993ddf5"
+Template: "a5e4bba8-5175-4b3c-ac43-ae8f613d1e17"
+Path: /sitecore/content/JSS Tenant/www/Home/Tile
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T100011Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Tileasd
+    - ID: "7603d2f6-5f99-4c52-a598-cdb0bdd2b0e0"
+      Hint: Title
+      Value: Tile
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02ebbf74-ec3f-4cee-80e6-73b9fedb73b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T150429Z

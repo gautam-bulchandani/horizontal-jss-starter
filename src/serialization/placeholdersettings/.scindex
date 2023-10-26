@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\placeholdersettings\www.yml
+ID: "ef97140e-9a58-4119-9f9c-2edd3b6dc035"
+Parent: "5ee85e0e-bacb-4c5c-9504-5d8d63467665"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/JSS Tenant/www
+Signature: dK68LSxRhSI1vkNGPmk9a6Jwtp+iUrPHqPJ+BzpRkus=
+Modified: 638327205451405537
+---
+File: |
+  C:\Projects\JSS-Projects\horizontal-jss-starter\horizontal-jss-starter\src\serialization\placeholdersettings\www\headless-tile.yml
+ID: "8f609170-902e-4b92-ba6a-a8c7ca85fe8c"
+Parent: "ef97140e-9a58-4119-9f9c-2edd3b6dc035"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/JSS Tenant/www/headless-tile"
+Signature: tmIpb6c2JRfhWggEv/e/G8wOV70dQ/jODG3WScA/N/I=
+Modified: 638327205451445521

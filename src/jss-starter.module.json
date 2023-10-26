@@ -1,0 +1,40 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "xmc-gautam",
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/project/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "templatesCustom",
+        "path": "/sitecore/templates/feature/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "contentroot",
+        "path": "/sitecore/content/JSS Tenant/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+
+      {
+        "name": "placeholdersettings",
+        "path": "/sitecore/layout/placeholder settings/project/JSS Tenant/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/renderings/feature/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  },
+  "leprechaun": {
+    "configuration": {
+      "@extends": "Jss-Starter",
+      "@name": "Feature.www"
+    }
+  }
+}

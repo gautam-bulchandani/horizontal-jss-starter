@@ -1,0 +1,26 @@
+﻿---
+ID: "a07f5f18-ba97-4d67-9fec-0f91d4200e5b"
+Parent: "f0fa8ee7-6370-49aa-a2b1-6ee08fd6e0fb"
+Template: "90a2e519-6168-4394-9e91-4e570cf71aa4"
+Path: /sitecore/content/JSS Tenant/www/Home/Data/HomeTile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T100112Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d94575c-b131-464a-b35b-9f14139a7601"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d436064f-dcff-436c-9fe7-55355b8938aa"
+      Hint: Destinations
+      Value: "{ECF4D9BA-F426-4ABE-8B05-DDE0E5E45C89}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230504T100223Z

@@ -1,0 +1,17 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://sitecorejss103sc.dev.local",
+      "authority": "https://sitecorejss103identityserver.dev.local",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjMzNTcxMkYxOEY1MjE4RjFDMUUxREI2MEE3M0QyNDI2NTc3NzU2Q0JSUzI1NiIsIng1dCI6Ik0xY1M4WTlTR1BIQjRkdGdwejBrSmxkM1ZzcyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL3NpdGVjb3JlanNzMTAzaWRlbnRpdHlzZXJ2ZXIuZGV2LmxvY2FsIiwibmJmIjoxNjk4MjMwNzAwLCJpYXQiOjE2OTgyMzA3MDAsImV4cCI6MTY5ODIzNDMwMCwiYXVkIjpbInNpdGVjb3JlLnByb2ZpbGUuYXBpIiwiaHR0cHM6Ly9zaXRlY29yZWpzczEwM2lkZW50aXR5c2VydmVyLmRldi5sb2NhbC9yZXNvdXJjZXMiXSwic2NvcGUiOlsic2l0ZWNvcmUucHJvZmlsZS5hcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsicHdkIl0sImNsaWVudF9pZCI6IkRldmljZSIsInN1YiI6IjRkZWVmMDIxMjQwZDQyYmU4Y2I2YzNmYTNlMDEzOTRlIiwiYXV0aF90aW1lIjoxNjk3MTIzMjM4LCJpZHAiOiJsb2NhbCIsIm5hbWUiOiJzaXRlY29yZVxcQWRtaW4iLCJlbWFpbCI6IiIsImh0dHA6Ly93d3cuc2l0ZWNvcmUubmV0L2lkZW50aXR5L2NsYWltcy9pc0FkbWluIjoiVHJ1ZSIsImp0aSI6IjUyN0ZGMkIwMTVEM0RDMTQ2QzQ5OEIxMzZGRjYxODkxIn0.XBWwgcOgOELY4x4gHGlGFmBlfNaAaksBaO3uq3piz2-tGmgUHRcAKblYqzWaLRX1msAUr78GT3f6I4QizVFRHwu8wTfeXhCnQ6bzVWRiGaXN9F9NOb7FJoHpL2stJgXiYY1v4sJPDRyGq9EzP5G1aBKddEp0xq3sn95HYmbTkKl6Q7hi2eN105pY7zMOt7K9_TrY3AphV4A2qAlwVPvioseMA7eNW9FIHL9Lr6Tf7ee7tKauhIlSZ62riWqNuG__DJNPjdTP-JXHOu_2lHHoD2BTdQu_EalPIuUlk6JiP1NZ6T7qVnXFejTeu9mB89JE8EAzyH0wtKcHavKuAtB93Q",
+      "refreshToken": "1CD085B6380CC9B81D269561E761FF27D7040A97DC5B04E4F3C62791818B3D5E-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2023-10-25T10:45:00.4732311Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json",
+  "defaultEndpoint": "default"
+}

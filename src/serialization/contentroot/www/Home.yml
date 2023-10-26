@@ -1,0 +1,69 @@
+﻿---
+ID: "289707fc-99ab-4ace-b1bc-04780993ddf5"
+Parent: "68a819fd-9c20-4fa6-bc79-ef1fbcdeb004"
+Template: "a5e4bba8-5175-4b3c-ac43-ae8f613d1e17"
+Path: /sitecore/content/JSS Tenant/www/Home
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{29A620C1-E416-40E3-8D36-87BA1C20DAFB}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{03A7E924-DB93-4A78-9C70-165508190E0F}"
+          s:ds="local:/Data/HomeTile"
+          s:id="{CC4805BD-B6AF-4D50-A595-2421B926B1F2}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B142ABAF1-2640-4D80-B33F-BFCD541C1F30%7D&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230420T114354Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: www
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7603d2f6-5f99-4c52-a598-cdb0bdd2b0e0"
+      Hint: Title
+      Value: www
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d80f1072-bda0-4a80-9332-007598b363ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d0ec0fb7-3e8c-4ddf-8a0c-0b506ae1734c"
+      Hint: Content
+      Value: |
+        <br class="t-last-br" />
+        First Jss Component
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231016T125208Z

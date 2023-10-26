@@ -1,0 +1,23 @@
+﻿---
+ID: "c39a6582-7765-4a29-b757-5f16134d626e"
+Parent: "642a8c8f-71bd-49a3-bb61-8cd735f26100"
+Template: "69f2ef60-4e3e-44fb-ad3c-19ce7195cce9"
+Path: /sitecore/content/JSS Tenant/www/Data/Tiles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230501T110903Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8adf5da3-a6ce-4184-a5d1-b83f994c8ba7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230501T110903Z
