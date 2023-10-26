@@ -22,7 +22,7 @@ SharedFields:
   Value: "{21907183-1A80-4BD4-97CE-991548D7BF3D}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
-  Value: www
+  Value: "jss-starter"
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
   Value: "{642A8C8F-71BD-49A3-BB61-8CD735F26100}"
@@ -73,11 +73,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d5c216ce-ac92-4060-ae44-ebde2bdf30f5"
+      Value: "9333cf78-bcba-446c-982f-a8c2d0012ff7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230420T152835Z
+      Value: 20231026T154336Z

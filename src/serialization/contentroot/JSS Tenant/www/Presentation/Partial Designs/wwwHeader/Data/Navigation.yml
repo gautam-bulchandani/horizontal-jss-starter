@@ -1,5 +1,5 @@
 ﻿---
-ID: "a2667993-c365-439d-bfb5-c835d2e38ca6"
+ID: "ed6c03c9-da09-4b5f-a889-d23c6a05e606"
 Parent: "8483d46d-67df-4831-ac79-524f7c01d4dd"
 Template: "873d08bd-392f-464f-9eba-1e3ed750eb3b"
 Path: /sitecore/content/JSS Tenant/www/Presentation/Partial Designs/wwwHeader/Data/Navigation
@@ -8,24 +8,34 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "037468f4-af0c-4b02-9350-4a1aebfd9c80"
+      Hint: HeaderText
+      Value: logo
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230504T153055Z
+      Value: 20231025T151002Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\admin
+        sitecore\Admin
+    - ID: "808ed3c8-5469-4073-900d-ce104fbf4672"
+      Hint: HeaderLinks
+      Value: "{ECF4D9BA-F426-4ABE-8B05-DDE0E5E45C89}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ee459448-d22f-474f-b935-b0af7442a023"
+      Value: "2f3447c6-8750-4f07-81b3-a13848e21f31"
+    - ID: "b95a6c5b-cc24-4143-b0d3-23e8cab1e88a"
+      Hint: HeaderLogo
+      Value: |
+        <image mediaid="{C302AFAD-90AA-4F4F-92A6-FA6E3E362D0E}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230504T153055Z
+      Value: 20231025T152321Z

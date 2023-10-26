@@ -15,7 +15,7 @@
       },
       {
         "name": "contentroot",
-        "path": "/sitecore/content/JSS Tenant/www",
+        "path": "/sitecore/content/JSS Tenant",
         "allowedPushOperations": "CreateAndUpdate"
       },
 
@@ -27,6 +27,11 @@
       {
         "name": "Renderings",
         "path": "/sitecore/layout/renderings/feature/www",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "ApiSetting",
+        "path": "//sitecore/system/Settings/Services/Rendering Hosts",
         "allowedPushOperations": "CreateAndUpdate"
       }
     ]

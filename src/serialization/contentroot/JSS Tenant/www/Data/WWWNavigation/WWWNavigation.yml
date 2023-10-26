@@ -8,6 +8,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "037468f4-af0c-4b02-9350-4a1aebfd9c80"
+      Hint: HeaderText
+      Value: mylogo
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230503T153439Z
@@ -19,13 +22,20 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "808ed3c8-5469-4073-900d-ce104fbf4672"
+      Hint: HeaderLinks
+      Value: "{ECF4D9BA-F426-4ABE-8B05-DDE0E5E45C89}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "15274125-9dbb-498d-bd6c-114b96b81414"
+      Value: "e2a10c12-4e52-4832-8b40-9f0bfe3fa582"
+    - ID: "b95a6c5b-cc24-4143-b0d3-23e8cab1e88a"
+      Hint: HeaderLogo
+      Value: |
+        <image mediaid="{C302AFAD-90AA-4F4F-92A6-FA6E3E362D0E}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230503T153439Z
+      Value: 20231025T151831Z

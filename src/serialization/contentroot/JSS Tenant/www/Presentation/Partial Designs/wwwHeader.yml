@@ -15,17 +15,10 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{BE43A91C-D5C5-4313-87DC-8F9A88578F3B}"
-          p:before="*"
-          s:ds="local:/Data/logo 1"
-          s:id="{D9125682-E3EE-4C1D-B7B1-8D6460BDBC06}"
-          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=1"
-          s:ph="headless-header" />
-        <r
-          uid="{712FAF66-55D0-4A1C-B4F3-F653F0E5288E}"
-          p:after="*[1=2]"
-          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
-          s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={F98C69A0-0520-4DD0-8658-B75E7000260B}&amp;Styles&amp;NavigationRoot&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={A59325BB-5A27-46F9-8110-9D499715F3BE}&amp;Filter&amp;Flattened&amp;AddRoot&amp;CacheClearingBehavior=Clear on publish"
+          uid="{B6AAF5B3-3EF2-44A3-9429-BE07000E7CC0}"
+          s:ds="local:/Data/Navigation"
+          s:id="{D63887F5-5401-4C07-A93D-D24AA17265BE}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=2"
           s:ph="headless-header" />
       </d>
     </r>
@@ -46,11 +39,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d063343-ca1e-4e26-9633-89a0dade8aa2"
+      Value: "2912148e-de59-4bc8-bf97-8883deb03b3c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231025T102735Z
+      Value: 20231025T152402Z

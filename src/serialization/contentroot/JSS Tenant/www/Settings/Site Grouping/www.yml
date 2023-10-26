@@ -41,14 +41,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c97950e6-c4e0-480d-838a-f11b332f5b21"
+      Value: "00cfa4fc-bf01-4ff4-b573-f314ffa43ef7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230928T150447Z
+      Value: 20231026T154754Z
     - ID: "f57099a3-526a-49f2-aebd-635453e48875"
       Hint: RenderingHost
       Value: Default
